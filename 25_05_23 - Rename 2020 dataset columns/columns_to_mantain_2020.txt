@@ -1,0 +1,78 @@
+Time,s
+LT Hip Flexion,deg
+RT Hip Flexion,deg
+LT Hip Abduction,deg
+RT Hip Abduction,deg
+LT Hip Rotation - out,deg
+RT Hip Rotation - out,deg
+LT Knee Flexion,deg
+RT Knee Flexion,deg
+LT Ankle Dorsiflexion,deg
+RT Ankle Dorsiflexion,deg
+LT Ankle Inversion,deg
+RT Ankle Inversion,deg
+LT Ankle Abduction,deg
+RT Ankle Abduction,deg
+Pelvis course,deg
+Pelvis pitch,deg
+Pelvis roll,deg
+LT Thigh course,deg
+LT Thigh pitch,deg
+LT Thigh roll,deg
+LT Shank course,deg
+LT Shank pitch,deg
+LT Shank roll,deg
+LT Foot course,deg
+LT Foot pitch,deg
+LT Foot roll,deg
+RT Thigh course,deg
+RT Thigh pitch,deg
+RT Thigh roll,deg
+RT Shank course,deg
+RT Shank pitch,deg
+RT Shank roll,deg
+RT Foot course,deg
+RT Foot pitch,deg
+RT Foot roll,deg
+Pelvis Accel Sensor X,mG
+Pelvis Accel Sensor Y,mG
+Pelvis Accel Sensor Z,mG
+LT Thigh Accel Sensor X,mG
+LT Thigh Accel Sensor Y,mG
+LT Thigh Accel Sensor Z,mG
+LT Shank Accel Sensor X,mG
+LT Shank Accel Sensor Y,mG
+LT Shank Accel Sensor Z,mG
+LT Foot Accel Sensor X,mG
+LT Foot Accel Sensor Y,mG
+LT Foot Accel Sensor Z,mG
+RT Thigh Accel Sensor X,mG
+RT Thigh Accel Sensor Y,mG
+RT Thigh Accel Sensor Z,mG
+RT Shank Accel Sensor X,mG
+RT Shank Accel Sensor Y,mG
+RT Shank Accel Sensor Z,mG
+RT Foot Accel Sensor X,mG
+RT Foot Accel Sensor Y,mG
+RT Foot Accel Sensor Z,mG
+Pelvis Rot X,
+Pelvis Rot Y,
+Pelvis Rot Z,
+LT Thigh Rot X,
+LT Thigh Rot Y,
+LT Thigh Rot Z,
+LT Shank Rot X,
+LT Shank Rot Y,
+LT Shank Rot Z,
+LT Foot Rot X,
+LT Foot Rot Y,
+LT Foot Rot Z,
+RT Thigh Rot X,
+RT Thigh Rot Y,
+RT Thigh Rot Z,
+RT Shank Rot X,
+RT Shank Rot Y,
+RT Shank Rot Z,
+RT Foot Rot X,
+RT Foot Rot Y,
+RT Foot Rot Z,
